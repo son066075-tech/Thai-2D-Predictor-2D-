@@ -1,0 +1,6 @@
+{
+  "name": "Thai 2D Predictor (ထိုင်း 2D ခန့်မှန်းချက်)",
+  "description": "Thai 2D prediction app for morning (12:30 PM) and evening (5:00 PM) sessions. ထိုင်း 2D မနက် (၁၂:၃၀) နှင့် ညနေ (၅:၀၀) အတွက် ခန့်မှန်းဂဏန်းများ တွက်ချက်ပေးသော app ဖြစ်ပါသည်။",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
